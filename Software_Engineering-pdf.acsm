@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+    <distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+    <operatorURL>http://books.google.com/books/acs4/fulfillment</operatorURL>
+    <expiration>2023-08-23T07:47:14-07:00</expiration>
+    <transaction>ge:3b1e024b-1cd8-e752-0cab-030852635716:1692801134670671</transaction>
+    <userId>01962586328947954757</userId>
+    <resourceItemInfo>
+        <resource>urn:uuid:3b1e024b-1cd8-e752-0cab-030852635716</resource>
+        <resourceItem>1</resourceItem>
+        <src>https://books.google.com/books/download/Software_Engineering.pdf?acsid=urn:uuid:3b1e024b-1cd8-e752-0cab-030852635716&amp;output=acs4_book_bytes&amp;ar=acfce4f1fd5308c041b70e12d7fc5f51</src>
+        <downloadType>simple</downloadType>
+    </resourceItemInfo>
+    <hmac>8DmxkkkilSzNmo9Jp3igPGTbrlA=</hmac>
+</fulfillmentToken>
